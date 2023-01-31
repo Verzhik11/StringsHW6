@@ -95,7 +95,6 @@ public class Main {
 
         }
 
-
     public static void task6() {
         System.out.println("Методы. Задача 3");
         int deliveryDistance = 80;
